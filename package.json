@@ -1,0 +1,22 @@
+{
+  "name": "face-morpher-typescript",
+  "version": "1.0.0",
+  "description": "a tool to morph between faces in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbnietert/face-morpher-typescript.git"
+  },
+  "author": "Sloan Nietert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sbnietert/face-morpher-typescript/issues"
+  },
+  "homepage": "https://github.com/sbnietert/face-morpher-typescript#readme",
+  "dependencies": {
+    "parcel": "^1.9.7"
+  }
+}
