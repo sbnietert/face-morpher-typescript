@@ -17,6 +17,11 @@
   "homepage": "https://github.com/sbnietert/face-morpher-typescript#readme",
   "devDependencies": {
     "parcel": "^1.9.7",
+    "tslint": "^5.11.0",
     "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "clmtrackr": "^1.1.2",
+    "delaunator": "^2.0.0"
   }
 }
